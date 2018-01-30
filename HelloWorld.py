@@ -1,2 +1,1 @@
-print('Hello World')
-print('Test Git')
+print('{a}{b}'.format(a='1',b='2'))
